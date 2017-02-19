@@ -1,0 +1,11 @@
+c:\users\hariras\documents\visual studio 2015\Projects\speechstartexp\speechstartexp\bin\Debug\speechstartexp.exe.config
+c:\users\hariras\documents\visual studio 2015\Projects\speechstartexp\speechstartexp\bin\Debug\speechstartexp.exe
+c:\users\hariras\documents\visual studio 2015\Projects\speechstartexp\speechstartexp\bin\Debug\speechstartexp.pdb
+c:\users\hariras\documents\visual studio 2015\Projects\speechstartexp\speechstartexp\bin\Debug\speechstartexp.xml
+c:\users\hariras\documents\visual studio 2015\Projects\speechstartexp\speechstartexp\obj\Debug\speechstartexp.vbprojResolveAssemblyReference.cache
+c:\users\hariras\documents\visual studio 2015\Projects\speechstartexp\speechstartexp\obj\Debug\speechstartexp.Form1.resources
+c:\users\hariras\documents\visual studio 2015\Projects\speechstartexp\speechstartexp\obj\Debug\speechstartexp.Resources.resources
+c:\users\hariras\documents\visual studio 2015\Projects\speechstartexp\speechstartexp\obj\Debug\speechstartexp.vbproj.GenerateResource.Cache
+c:\users\hariras\documents\visual studio 2015\Projects\speechstartexp\speechstartexp\obj\Debug\speechstartexp.exe
+c:\users\hariras\documents\visual studio 2015\Projects\speechstartexp\speechstartexp\obj\Debug\speechstartexp.xml
+c:\users\hariras\documents\visual studio 2015\Projects\speechstartexp\speechstartexp\obj\Debug\speechstartexp.pdb

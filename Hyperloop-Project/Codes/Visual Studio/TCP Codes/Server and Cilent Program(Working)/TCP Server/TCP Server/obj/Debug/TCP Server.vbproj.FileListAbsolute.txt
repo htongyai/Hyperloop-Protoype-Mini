@@ -1,0 +1,10 @@
+c:\users\hariras\documents\visual studio 2015\Projects\TCP Server\TCP Server\bin\Debug\TCP Server.exe.config
+c:\users\hariras\documents\visual studio 2015\Projects\TCP Server\TCP Server\bin\Debug\TCP Server.exe
+c:\users\hariras\documents\visual studio 2015\Projects\TCP Server\TCP Server\bin\Debug\TCP Server.pdb
+c:\users\hariras\documents\visual studio 2015\Projects\TCP Server\TCP Server\bin\Debug\TCP Server.xml
+c:\users\hariras\documents\visual studio 2015\Projects\TCP Server\TCP Server\obj\Debug\TCP_Server.Form1.resources
+c:\users\hariras\documents\visual studio 2015\Projects\TCP Server\TCP Server\obj\Debug\TCP_Server.Resources.resources
+c:\users\hariras\documents\visual studio 2015\Projects\TCP Server\TCP Server\obj\Debug\TCP Server.vbproj.GenerateResource.Cache
+c:\users\hariras\documents\visual studio 2015\Projects\TCP Server\TCP Server\obj\Debug\TCP Server.exe
+c:\users\hariras\documents\visual studio 2015\Projects\TCP Server\TCP Server\obj\Debug\TCP Server.xml
+c:\users\hariras\documents\visual studio 2015\Projects\TCP Server\TCP Server\obj\Debug\TCP Server.pdb

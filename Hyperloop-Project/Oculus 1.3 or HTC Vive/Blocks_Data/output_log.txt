@@ -1,0 +1,69 @@
+Initialize engine version: 5.4.0b22 (7633684eb4c7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3975 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\MathNet.Numerics.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\MathNet.Numerics.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\System.Threading.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\System.Threading.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\Mystery Node Set.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\Mystery Node Set.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\Mystery Squiggle UI.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\Mystery Squiggle UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\Mystery Squiggle.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\Mystery Squiggle.dll into Unity Child Domain
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 4480x1440 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'GameObject') is missing!
+ 
+(Filename:  Line: 1656)
+
+UnloadTime: 1.636016 ms
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\Alex\Desktop\UnityBuilds\Blocks\Blocks 1.6.01\Blocks_Data\Managed\System.Data.dll (this message is harmless)
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Oculus
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Started loading Wave
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3088 -> priority: 1 
+  Thread -> id: 41f0 -> priority: 1 
+Started playback Wave
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+

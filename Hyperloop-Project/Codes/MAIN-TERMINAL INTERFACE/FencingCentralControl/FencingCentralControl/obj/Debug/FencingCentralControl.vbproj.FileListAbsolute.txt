@@ -1,0 +1,13 @@
+c:\users\hariras\documents\visual studio 2015\Projects\FencingCentralControl\FencingCentralControl\bin\Debug\FencingCentralControl.exe.config
+c:\users\hariras\documents\visual studio 2015\Projects\FencingCentralControl\FencingCentralControl\bin\Debug\FencingCentralControl.exe
+c:\users\hariras\documents\visual studio 2015\Projects\FencingCentralControl\FencingCentralControl\bin\Debug\FencingCentralControl.pdb
+c:\users\hariras\documents\visual studio 2015\Projects\FencingCentralControl\FencingCentralControl\bin\Debug\FencingCentralControl.xml
+c:\users\hariras\documents\visual studio 2015\Projects\FencingCentralControl\FencingCentralControl\obj\Debug\FencingCentralControl.vbprojResolveAssemblyReference.cache
+c:\users\hariras\documents\visual studio 2015\Projects\FencingCentralControl\FencingCentralControl\obj\Debug\FencingCentralControl.Form1.resources
+c:\users\hariras\documents\visual studio 2015\Projects\FencingCentralControl\FencingCentralControl\obj\Debug\FencingCentralControl.Resources.resources
+c:\users\hariras\documents\visual studio 2015\Projects\FencingCentralControl\FencingCentralControl\obj\Debug\FencingCentralControl.vbproj.GenerateResource.Cache
+c:\users\hariras\documents\visual studio 2015\Projects\FencingCentralControl\FencingCentralControl\obj\Debug\FencingCentralControl.exe
+c:\users\hariras\documents\visual studio 2015\Projects\FencingCentralControl\FencingCentralControl\obj\Debug\FencingCentralControl.xml
+c:\users\hariras\documents\visual studio 2015\Projects\FencingCentralControl\FencingCentralControl\obj\Debug\FencingCentralControl.pdb
+c:\users\hariras\documents\visual studio 2015\Projects\FencingCentralControl\FencingCentralControl\obj\Debug\FencingCentralControl.voiceRecognitionModule.resources
+c:\users\hariras\documents\visual studio 2015\Projects\FencingCentralControl\FencingCentralControl\obj\Debug\FencingCentralControl.TCP_Client.resources

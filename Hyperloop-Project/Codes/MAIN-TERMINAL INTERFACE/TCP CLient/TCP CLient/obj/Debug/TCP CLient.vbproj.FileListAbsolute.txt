@@ -1,0 +1,11 @@
+c:\users\hariras\documents\visual studio 2015\Projects\TCP CLient\TCP CLient\bin\Debug\TCP CLient.exe.config
+c:\users\hariras\documents\visual studio 2015\Projects\TCP CLient\TCP CLient\bin\Debug\TCP CLient.exe
+c:\users\hariras\documents\visual studio 2015\Projects\TCP CLient\TCP CLient\bin\Debug\TCP CLient.pdb
+c:\users\hariras\documents\visual studio 2015\Projects\TCP CLient\TCP CLient\bin\Debug\TCP CLient.xml
+c:\users\hariras\documents\visual studio 2015\Projects\TCP CLient\TCP CLient\obj\Debug\TCP CLient.vbprojResolveAssemblyReference.cache
+c:\users\hariras\documents\visual studio 2015\Projects\TCP CLient\TCP CLient\obj\Debug\TCP_CLient.Form1.resources
+c:\users\hariras\documents\visual studio 2015\Projects\TCP CLient\TCP CLient\obj\Debug\TCP_CLient.Resources.resources
+c:\users\hariras\documents\visual studio 2015\Projects\TCP CLient\TCP CLient\obj\Debug\TCP CLient.vbproj.GenerateResource.Cache
+c:\users\hariras\documents\visual studio 2015\Projects\TCP CLient\TCP CLient\obj\Debug\TCP CLient.exe
+c:\users\hariras\documents\visual studio 2015\Projects\TCP CLient\TCP CLient\obj\Debug\TCP CLient.xml
+c:\users\hariras\documents\visual studio 2015\Projects\TCP CLient\TCP CLient\obj\Debug\TCP CLient.pdb
